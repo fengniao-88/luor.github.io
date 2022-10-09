@@ -1,10 +1,10 @@
 # Site settings
-title: luor Blog
+title: luor 
 SEOTitle: luor的博客 | luor
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: luliuu551@gmail.com
 description: "这里是 @luor 的个人博客，与你一起发现更大的世界 | "
-keyword: "luor,  鬼栈,  luor的博客, luor, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+keyword: "luor,  鬼栈,  luor的博客, luor, 博客, 个人网站, "
 url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -91,7 +91,7 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
+    { title: "排序（Midare）", href: "http://mida.re/" },
     { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
     { title: "Kun Qian", href: "http://kunq.me" },
     { title: "Sherry Woo", href: "https://sherrywoo.me/" },
